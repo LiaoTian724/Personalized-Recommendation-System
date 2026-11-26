@@ -1,0 +1,23 @@
+# Dataset
+Dataset/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Saved Models
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.safetensors
+
+# Environments
+.venv/
+.env
+
+# macOS
+.DS_Store
